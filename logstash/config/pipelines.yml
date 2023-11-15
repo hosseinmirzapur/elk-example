@@ -1,0 +1,2 @@
+- pipline.id: sync-posts.pipeline
+  path.config: "./pipeplines/sync-post.conf"
